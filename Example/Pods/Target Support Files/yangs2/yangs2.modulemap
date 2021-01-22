@@ -1,0 +1,6 @@
+framework module yangs2 {
+  umbrella header "yangs2-umbrella.h"
+
+  export *
+  module * { export * }
+}

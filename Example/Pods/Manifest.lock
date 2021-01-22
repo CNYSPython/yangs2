@@ -1,0 +1,16 @@
+PODS:
+  - yangs2 (0.0.1)
+
+DEPENDENCIES:
+  - yangs2 (from `../`)
+
+EXTERNAL SOURCES:
+  yangs2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  yangs2: 690a6cb67d6d5d2d00be1497ffd8f27b2fbf11ea
+
+PODFILE CHECKSUM: 65efc92803400abce0e5909b64cf806f80eedf0d
+
+COCOAPODS: 1.10.1
