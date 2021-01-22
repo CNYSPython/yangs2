@@ -1,0 +1,6 @@
+use_frameworks!
+target 'yangs2_Tests' do
+  pod 'yangs2', :path => '../'
+  
+  
+end
